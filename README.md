@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rafia Ashraf</h1>
-<h3 align="center">A Software Engineer</h3>
+<h3 align="center">A Software Engineering Student</h3>
 
 ###
 
