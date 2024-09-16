@@ -2,13 +2,13 @@
 <h3 align="center">A Software Engineering Student</h3>
 
 ###
-
+<img align="right" height="250" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"  />
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 🌱 I’m currently learning **Web Dev** and **Machine Learning**
 
 📫 How to reach me **rafiaashraf122@gmail.com**
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
 
 ###
 
