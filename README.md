@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rafia Ashraf</h1>
-<h3 align="center">Software Engineering</h3>
+<h3 align="center">Software Engineer</h3>
 
 ###
 <img align="right" height="250" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"  />
